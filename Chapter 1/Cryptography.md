@@ -25,18 +25,18 @@
         3. Integrity
         4. Non Repudiation
 
-        **Authenticity** : It  validates the origin of the message/data
-                           Users can validate where the data is coming from
-                           Digital certificates help achieve this
+        Authenticity    : It  validates the origin of the message/data
+                          Users can validate where the data is coming from
+                          Digital certificates help achieve this
 
-        **Confidentiality** : It ensures that the message transmitted is only visible to users authorized to see it 
-                              Must guarantee the secure transmission of data across insecure channels
-                              Symmetric & asymmetric encryption helps achieve this
+        Confidentiality : It ensures that the message transmitted is only visible to users authorized to see it 
+                          It must guarantee the secure transmission of data across insecure channels
+                          Symmetric & asymmetric encryption helps achieve this
                               
-        **Data Integrity** : It deals with making sure that data is not tampered by unauthorized users 
-                             Must guarantee data remains intact during transmission
-                             Hashing helps achieve this
-                             
-        **Non-repudiation** : It enables users to guarantee the origin of the data in an undisputable manner    
-                              Must guarantee that data is from who it says it is from
-                              Digital signatures help achieve this
+        Data Integrity  : It deals with making sure that data is not tampered by unauthorized users 
+                          It Must guarantee data remains intact during transmission
+                          It can be achieved by using hashing
+
+        Non-repudiation : It enables the users to guarantee the origin of the data in an undisputable manner    
+                          It Must guarantee that data is from who it says it is from
+                          Digital signatures can help achieve this
