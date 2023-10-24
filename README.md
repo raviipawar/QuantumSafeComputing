@@ -1,4 +1,4 @@
-# QuantumSafeComputing
+# Quantum Safe Computing
 Welcome to Quantum Safe Computing learning here I will be writing about existing quantum computing, cryptography algorithms, quantum safe computing.
 
 1. Introduction
