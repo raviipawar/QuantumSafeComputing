@@ -1,5 +1,5 @@
-*Table of Contents*
-
+**Table of Contents
+**
 1. Cryptography
 2. Encryption
 3. Secure Hashing
