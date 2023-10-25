@@ -57,17 +57,17 @@
 
 **Types of Cryptography**
 
-1. Classical/Traditional Cryptography
+1. Classical/Traditional Cryptography :
      Based on principles of mathematics and relies on the computational difficulty of large number factorization and discrete 
      logarithms. 
      Designed for classical computers Difficult (but not impossible) to decrypt data that is encrypted using classical 
      cryptography by classical computers (can take thousands of years). With quantum computers data can be easily decrypted
 
-2. Quantum Safe Cryptography
+2. Quantum Safe Cryptography :
       Also based on the principles of mathematics, but the cryptographic algorithms are based on more complex math calculations that are resistant to quantum computers
       Designed for both classical and quantum computers
       
-3. Quantum Cryptography
+3. Quantum Cryptography :
      Data is transmitted as qubits using particles of light called photons through optic fiber cables
      Based on principles of quantum/modern physics. Security of the system depends on the properties of quantum mechanics which relies on the following guarantees:
             • Heisenberg Uncertainty Principle - particles can exist in more than one place or state at a time
