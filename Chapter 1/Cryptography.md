@@ -40,3 +40,35 @@
         Non-repudiation : It enables the users to guarantee the origin of the data in an undisputable manner    
                           It Must guarantee that data is from who it says it is from
                           Digital signatures can help achieve this
+
+
+    **Cryptographic Terminology**
+
+        1. Cryptographic protocols : They define the protocols, rules, syntax and semantics to perform a specific security related  operation
+        2. Cryptographic Algorithms : (ciphers) It defines a set of instructions to perform a specific cryptographic functions
+                    Examples : Digital Signature Algorithm to authenticate entities
+                               Asymmetric/Symmetric algorithm for encryption/decryption
+                               Hash function algorithm to ensure data integrity.
+        3. Key Management : Cryptography algos may use keys to provide certain cryptographic functions
+                            It Manages the generation, exchange, storage, use, replacement, and destruction of keys used in 
+                            encryption/decryption
+                            Example:  Encryption algorithms use keys to encrypt and decrypt data to ensure confidentiality
+        
+
+**Types of Cryptography**
+
+1. Classical/Traditional Cryptography
+     Based on principles of mathematics and relies on the computational difficulty of large number factorization and discrete 
+     logarithms. 
+     Designed for classical computers Difficult (but not impossible) to decrypt data that is encrypted using classical 
+     cryptography by classical computers (can take thousands of years). With quantum computers data can be easily decrypted
+
+2. Quantum Safe Cryptography
+      Also based on the principles of mathematics, but the cryptographic algorithms are based on more complex math calculations that are resistant to quantum computers
+      Designed for both classical and quantum computers
+      
+3. Quantum Cryptography
+     Data is transmitted as qubits using particles of light called photons through optic fiber cables
+     Based on principles of quantum/modern physics. Security of the system depends on the properties of quantum mechanics which relies on the following guarantees:
+            • Heisenberg Uncertainty Principle - particles can exist in more than one place or state at a time
+            • Photon Polarization Principle - qubits cannot be observed without changing or disturbing it, hence cannot be copied
