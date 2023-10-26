@@ -51,7 +51,7 @@
         ===============================================================================================================================                
     **QUANTUM COMPUTERS THREATENS ALMOST ALL OUR EXISTING CRYPTOGRAPHY INCLUDING BOTH PUBLIC KEY AND SYMMETRIC**
 
-    =============================================================================================================
+    ===============================================================================================================================
 
     **Two Algorithms that may easily attack cryptography**
  
@@ -62,11 +62,29 @@
                                 Weakens the security of AES
 
 
-        =============================================================================================================
+    ===============================================================================================================================
 
     **NIST set the standards**
     In 2016, concerned about quantum computers, NIST launched the Post Quantum Competition (PQC) to develop and standardize the next generation of public key algorithms that is secure from both classical and quantum computer attacks.
 
-    4 Winner selected last year:
+     [Newly Introduced algorithms](image.png)
 
-    1. ![Newly Introduced algorithms](image.png)
+    US govt mandates : Quantum Computing Cybersecurity Act, passed in Nov 2022.
+    It mandates adoption of post quantum cryptography by federal agencies.
+
+    ===============================================================================================================================
+
+    **Summary**
+
+    1. Quantum computers will shred much of today's encryption. Maybe there is some time to come up with new solutions or its already built in some secret lab :P
+    2. Independent of quantum computer capabilities, new standards are coming to cryptography soon.
+    3. Crypto-agile solutions are the smart way to ride out the churn which can be adopted today, but the market doesn't yet value these solution unless adoption of new standard from PQC happens.
+    
+
+    =================================================================================================================================
+
+    **useful links**
+
+    [Crypto-agility-post-quantum](https://ironcorelabs.com/crypto-agility-post-quantum/)
+
+    [How-to-be-crypto-agile](https://ironcorelabs.com/blog/2022/how-to-be-crypto-agile-building-cryptographic-resiliency-in-the-age-of-quantum-computers/)
