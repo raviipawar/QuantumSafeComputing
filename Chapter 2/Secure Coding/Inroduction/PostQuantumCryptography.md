@@ -60,3 +60,13 @@
                             Current Public record for factoring a number using shor's algorithm : 261980999226229 
     2. **Grover's Algorithm** (Time to break a key from many billions of years fewer billions of years )
                                 Weakens the security of AES
+
+
+        =============================================================================================================
+
+    **NIST set the standards**
+    In 2016, concerned about quantum computers, NIST launched the Post Quantum Competition (PQC) to develop and standardize the next generation of public key algorithms that is secure from both classical and quantum computer attacks.
+
+    4 Winner selected last year:
+
+    1. ![Newly Introduced algorithms](image.png)
